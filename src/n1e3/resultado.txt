@@ -1,0 +1,2 @@
+Usuario: Prueba1 - Puntuacion: 1
+Usuario: Prueba2 - Puntuacion: 0
