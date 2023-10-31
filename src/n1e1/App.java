@@ -45,7 +45,7 @@ public class App {
 		Iterator<Month> hashIterator = months.iterator();
 		while(hashIterator.hasNext()) {
 			System.out.println(hashIterator.next().getName());
-		} //con Iterator no salen los duplicados, con el bucle for si
+		}
 
 
 	}
